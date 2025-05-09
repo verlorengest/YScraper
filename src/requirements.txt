@@ -1,0 +1,6 @@
+setuptools
+selenium
+undetected-chromedriver
+requests
+Pillow
+textblob
