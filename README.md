@@ -26,6 +26,10 @@ YScraper is a powerful GUI-based YouTube comment scraper built with Python and S
 * Chrome installed
 * Recommended: Use a virtual environment
 
+Double click to launch.bat and you are good to go.
+
+Or,
+
 ### Install Dependencies
 
 ```bash
