@@ -1,7 +1,9 @@
 
 # YScraper
 
+![app_icon](https://github.com/user-attachments/assets/55216568-212b-4183-ac74-ac3665176902)
 YScraper is a powerful GUI-based YouTube comment scraper built with Python and Selenium. It allows users to extract comments, replies, and profile photos from individual videos, channels, or bulk lists—without relying on YouTube’s official API.
+
 
 ---
 
